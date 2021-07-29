@@ -1,0 +1,1 @@
+SELECT * FROM ticket1.article;
